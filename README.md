@@ -20,9 +20,6 @@ I developed a comprehensive project on Excel, creating multiple dashboards and t
 - Make sure data is consistent and clean with respect to data type,data formate and values used.
 - Create pivot table according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
-  
-## Dashboard
-<ahref="C:\Users\hanif\OneDrive\Pictures\Screenshots\Screenshot (32).png">
 
 ## Project insight 
 - Women customers are more likely to buy products compare to men.
