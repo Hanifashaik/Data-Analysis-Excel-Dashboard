@@ -21,3 +21,12 @@ I developed a comprehensive project on Excel, creating multiple dashboards and t
 - Make sure data is consistent and clean with respect to data type,data formate and values used.
 - Create pivot table according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+##Project insight 
+- Women customers are more likely to buy products compare to men.
+- The states of Maharastra,karnataka,Uttar pradesh are top 3 product buyers.
+- The adult group (30-49yrs) is max contributing ("50%) and buy the most products.
+- More that 90% of products delivered
+
+  ##Final Conclusion
+  To improve sales of store, a stategy marketing paln focused on women aged 30-49 years residing in maharastra,karnataka,UP should be implemented.The approach should include targeted digital marketing campanies and personalized promotions to capture their attention.
